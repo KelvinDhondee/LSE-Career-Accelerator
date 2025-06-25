@@ -2,9 +2,7 @@
 
 This folder contains the .twbx file created for Course 1 of LSE Data Analytics Career Accelerator.
 
-## Interactive Dashboard
-
-View the interactive dashboard on Tableau Public:
+View the interactive dashboards on Tableau Public:
 https://public.tableau.com/views/CustomerInsightsMarketingEffectivenessDashboard/CustomerDemographicAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
