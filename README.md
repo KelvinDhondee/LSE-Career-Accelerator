@@ -3,10 +3,10 @@ This repository showcases the projects I completed as part of the The London Sch
 
 Achieved an overall distinction with a score of **85.70%** across all components. Performance breakdown:
 
-- *Data Analytics for Business.* **Result:** 75/100
+- *Data Analytics for Business.* **Result:** 75%
 
-- *Data Analytics Using Python.* **Result:** 89/100
+- *Data Analytics Using Python.* **Result:** 89%
 
-- *Advanced Analytics for Organisational Impact.* **Result:** 84/100
+- *Advanced Analytics for Organisational Impact.* **Result:** 84%
 
-- *Capstone Project for the Bank of England.* **Result:** 91.5/100
+- *Capstone Project for the Bank of England.* **Result:** 91.50%
