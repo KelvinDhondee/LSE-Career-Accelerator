@@ -5,7 +5,7 @@ As a team, we tested multiple sentiment analysis approaches including transforme
 My individual contributions included:
 
 - Compiling economic research primers to strengthen our team’s understanding of relevant macroeconomic concepts and context
-- Developing and implementing an advanced time-series forecasting model (SARIMAX) that demonstrated how sentiment data could improve economic predictions
+- Developing and implementing an advanced time-series forecasting model (SARIMAX) that demonstrated how CentralBAnkRoBERTa economic agent sentiment could improve economic predictions
   
 I was fortunate to work alongside five exceptional analysts, each of whom brought unique expertise and creativity to the project. The folder with the .ipynb files contains everyone’s contributions, with initials indicating the analyst responsible for each notebook.
 
