@@ -1,6 +1,6 @@
 This six-week capstone project for the LSE Data Analytics Career Accelerator gave our team of six students (Team BEACON), the opportunity to collaborate directly with the Bank of England. Our objective was to analyse the sentiment of BoE speeches and explore how that sentiment might be integrated into models predicting macroeconomic shifts.
 
-As a team, we tested multiple sentiment analysis approaches—including transformer-based machine learning models and large language models (LLMs)—and applied a range of predictive modelling and time-series forecasting techniques (such as gradient boosting and SARIMAX). Our final recommendation to the Bank was to incorporate the CentralBankRoBERTa sentiment model, paired with appropriate time lags, to better capture the delayed impact of central bank communications.
+As a team, we tested multiple sentiment analysis approaches including transformer-based machine learning models and large language models (LLMs). We applied a range of predictive modelling and time-series forecasting techniques (such as gradient boosting and SARIMAX). Our final recommendation to the Bank was to incorporate the CentralBankRoBERTa sentiment model, paired with appropriate time lags, to better capture the delayed impact of central bank communications.
 
 My individual contributions included:
 
